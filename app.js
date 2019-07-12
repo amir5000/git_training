@@ -1,3 +1,3 @@
 const helloWorld = 'hello world';
-console.log(helloWorld)
+console.log(helloWorld);
 
